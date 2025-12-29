@@ -36,10 +36,6 @@ const Ashley = {
 </p>
 
 ## 📊 GitHub Stats
-<p>
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=wintersprouter%20&theme=shadow-purple&hide_border=true&short_numbers=true&mode=weekly" alt="GitHub Streak" /></a>
-</p>
-
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=wintersprouter&theme=tokyo-night&hide_border=true&area=true" />
 
