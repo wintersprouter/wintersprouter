@@ -3,7 +3,7 @@
 ```javascript
 const Ashley = {
   role: "Frontend Engineer",
-  experience: "4 years",
+  experience: "5 years",
   code: ["TypeScript", "JavaScript"],
   focus: ["React Native", "React", "Next.js", "Node.js"],
   currentlyLearning: "RxJS",
